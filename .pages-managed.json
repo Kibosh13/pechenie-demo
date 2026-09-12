@@ -1,0 +1,28 @@
+{
+  "project": "due-passi-pechenie",
+  "basePath": "/pechenie-demo",
+  "staticDemo": true,
+  "files": {
+    "_next/static/7e59a2cd-b8d7-4c3d-be82-991b8f4d41b0/_buildManifest.js": "47f02b34be6dc481257b6efce4c19e19111f37ef5c437f8ffed44f0da97fa9bb",
+    "_next/static/7e59a2cd-b8d7-4c3d-be82-991b8f4d41b0/_ssgManifest.js": "653f3e53e89b4f8548ff86c19e92bb3c6b84b6be7485a320b1e00893ed877479",
+    "_next/static/chunks/app-route-prefetch-policy-DYNjTSEy.js": "14693d3062e0923e9bcda995a471d232de62befed4f9c488cfa6f7b0a83a121f",
+    "_next/static/chunks/framework-DSyA8Khw.js": "fea5182369541ae44ef44232882a43ba2820e5a5384e6f1ba7f565e68be9509d",
+    "_next/static/chunks/index-BtP5CicW.js": "ccf5545eeb4a068aa45e22b91ad43e5092d4c9ed7c824d0b38103bc7f5f440bf",
+    "_next/static/chunks/layout-segment-context-B7o7lzOR.js": "c6d2aa30fccd95f513c2d17622531e3ee1d67c14ce421ce5748572b7cbbfb26c",
+    "_next/static/chunks/page-JMLskSX6.js": "3253cba8c7f11f4fd31e1837012f4672761a68c3209e2f463ba41a2bd5406cf1",
+    "_next/static/chunks/rolldown-runtime-CV4fzp8G.js": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75",
+    "_next/static/chunks/streamed-icons-B9yE3DsL.js": "3a839283086f75f44c2183f6a4e35f3f5c7df2ca106b3998d4b9b4e9953e1612",
+    "_next/static/css/index.DuYOORQ5.css": "eee009547016ab6f9523fd60299bed57e82832ac35d4ff703d6442550895f9bc",
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    ".vite/manifest.json": "57ff8def6ea6709c55b9a82214d94f28cd87557b38c87281e1715f374c8d2977",
+    "404.html": "bdd458c18bcf07380d5798ee6831b574dcfbabcecf6d167ef79a807053fc01ba",
+    "favicon.svg": "ca6993dafa06a2c0d1c8906d774cb578cf7b29a8ee84dfd0231f8f19ec5eb752",
+    "images/almond.jpg": "66e9a3aab5561f49cf1c1f85cdbc571eddb7b2d87f2f7fede2cafc3ee344f083",
+    "images/chocolate.jpg": "0a51682e679add1f9c46611762138c8f34cd4f68cdf55eed1700303f5266e942",
+    "images/oatmeal.jpg": "ca6dba226a7fa38efa9b08b01708f66da097c914ddd12b71b1aae02ac24b953f",
+    "index.html": "a557bdec975d30d448dac0a513904d78e79bd905cf6b985fb4fe367a80ece659",
+    "index.rsc": "36aceb6b166e3aa3da7423fffa2c086f7ebde8c433b93f80f9c72eaa82cd3bac",
+    "robots.txt": "b7ea2319510d75a4667f6a60440294a5f84de25cf1ed47a8c9da20904b388722",
+    "vinext-client-entry-manifest.json": "ecc5c0dd6bb8fccda00cf166b42b0468c56e662633d0695542806bdacb1f041b"
+  }
+}
