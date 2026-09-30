@@ -3,20 +3,11 @@
   "basePath": "/pechenie-demo",
   "staticDemo": true,
   "files": {
-    "_next/static/3630aeec-f708-4572-9b41-fdc0b02286d2/_buildManifest.js": "47f02b34be6dc481257b6efce4c19e19111f37ef5c437f8ffed44f0da97fa9bb",
-    "_next/static/3630aeec-f708-4572-9b41-fdc0b02286d2/_ssgManifest.js": "653f3e53e89b4f8548ff86c19e92bb3c6b84b6be7485a320b1e00893ed877479",
-    "_next/static/chunks/app-route-prefetch-policy-DrwEj9Tu.js": "8239fff0b18a91ffbd7215845c8398242d3cf6e18fef931e24856f86adccb8b9",
-    "_next/static/chunks/framework-DSyA8Khw.js": "fea5182369541ae44ef44232882a43ba2820e5a5384e6f1ba7f565e68be9509d",
-    "_next/static/chunks/index-DV98YKag.js": "ffeb660b12bb2aa9777936f4a01c0c32ff7f12dfa31793e70a153aadba07fed4",
-    "_next/static/chunks/layout-segment-context-4seM3iJI.js": "e6f57e9e733bcc4bca4727723ba74b099418077a13dfa0b55864f9cb1dcf84c1",
-    "_next/static/chunks/page-BWbXKti-.js": "59e9220db8c9c2038893ebf8664c70d2d8f098810e7550352413b64ed283520e",
-    "_next/static/chunks/rolldown-runtime-CV4fzp8G.js": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75",
-    "_next/static/chunks/streamed-icons-B9yE3DsL.js": "3a839283086f75f44c2183f6a4e35f3f5c7df2ca106b3998d4b9b4e9953e1612",
-    "_next/static/css/index.lR3Z5Rjl.css": "8f7b549f80786ebf3b0b39ac52b7e9dc591bfb6ce9b78a7f0a604949a57d9387",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "d82d5e6274ba7afcf6abc51c42e6a8420914a6a987801a7879d9b1452ac6c09c",
-    "consent/index.html": "333e1590285230cf682e67c1c96350f72419578021fe5b6cce829c4a73ed07a0",
-    "consent/index.rsc": "1b817861ef6f70e221aaa7431ceb310f5e571fcfb26713977a03c78d2a233c8e",
+    "404.html": "1e06ff33235727228d647f196cd68c2711d3d611a5cd2530ed66e3401d5a27de",
+    "assets/site.91895eaeac2a.css": "91895eaeac2aa34ce382473890ac0fd580d5e8ff5ee96ae370e4114b529578d4",
+    "assets/site.97af9dd66507.js": "97af9dd66507c77cdf15f1fb06f95cfd0d70e6e0e1d4c58fe4ea7ff6b5c960df",
+    "consent/index.html": "d7e779add3d50ca68ddeeae0f80c509b12e04e9166f70dc6cfb5ecb83b9de721",
     "favicon.svg": "70e49943f339560f44d4a39d4f4b32fcf14714b0b178cf5376f206884f996448",
     "images/butter-counter.jpg": "2dafac67b1796a1808f92746ca9426366e890ea551bcd7e1811b3eb001edac08",
     "images/butter-pack.jpg": "4055c1ffa9d91036061c9de758cf26e102f1f487fc031c6af40d642be58b8b88",
@@ -30,10 +21,8 @@
     "images/production-forming.jpg": "1d4b82b08258949f35b4ef175c20ef2483fc6c4573943946ce026710e7265af0",
     "images/production-oven.jpg": "fa43fd2825e7a292bdd8379c6bfc7eb146be9c4b3b9a81bf502422fbb5f53ac2",
     "images/range-in-hands.jpg": "59c0ce64e79aad71fbde4f74d0cffba22ce0bce7848fca537a1c6e3f2f473b73",
-    "index.html": "1fa1731075a0f2d75ac832634d9685998e997d81d7e9b16ec0cc180f522f65aa",
-    "index.rsc": "3950781370fff82c49d1b56828701d7c50cbe6fa028b764c778506d0f3e59bd6",
-    "privacy/index.html": "e8c3cf1d0e12ca221af1812f4bd3e29037ef9a3996d89d679bb88a7c0dfef969",
-    "privacy/index.rsc": "ba3234c5cf2913d8ec2bf5a66803dad50e7525dc0f8da5ba0153438ecd5dfd23",
-    "robots.txt": "b7ea2319510d75a4667f6a60440294a5f84de25cf1ed47a8c9da20904b388722"
+    "index.html": "821132c1888d55f858e1ceb3782cb3edd2b47413f0c9857776b77cc34393b1ed",
+    "privacy/index.html": "fb07f35c5cb0a1266ec08f1f45eaf7f43f1bcb5d59be080474cc6e8ba4af5988",
+    "robots.txt": "59e8efd26a562dcb4f68014470bbf6d5449a2bac258fd9cef21fa770c1dfc8b8"
   }
 }
